@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2C8D4E73-D6D8-4C91-BA24-4A7051632953"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC8B0EAB-A752-4BC7-B041-8CD1354B4C7F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeroisMarvel/MarvelAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "loadHeroes(name:page:onComplete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB23FC2E-5065-476E-8823-551FBA8EED90"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeroisMarvel/MarvelAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "loadHeroes(name:page:onComplete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CB23FC2E-5065-476E-8823-551FBA8EED90 - 72b2f2ab0463dbd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of static HeroisMarvel.MarvelAPI.loadHeroes(name: Swift.Optional&lt;Swift.String&gt;, page: Swift.Int, onComplete: (Swift.Optional&lt;HeroisMarvel.MarvelInfo&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeroisMarvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/humbertorodrigues/Downloads/HeroisMarvel/HeroisMarvel/MarvelAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "CB23FC2E-5065-476E-8823-551FBA8EED90 - 79d30ee874bbcb19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static HeroisMarvel.MarvelAPI.loadHeroes(name: Swift.Optional&lt;Swift.String&gt;, page: Swift.Int, onComplete: (Swift.Optional&lt;HeroisMarvel.MarvelInfo&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeroisMarvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/humbertorodrigues/Downloads/HeroisMarvel/HeroisMarvel/MarvelAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F98ED092-6E67-449D-863E-6DB81E15B1D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeroisMarvel/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3E4EA25-83CA-4162-8382-67D286C15F6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeroisMarvel/HeroesTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "505C5DDE-0F32-424D-8FA4-CC96A085FAD3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeroisMarvel/HeroesTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1782FBD0-BBDA-47B7-A0B6-663E13B02D9B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeroisMarvel/HeroesTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74651DFF-5BB7-4179-9CB0-4DBB51B1BDF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeroisMarvel/MarvelAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "loadHeroes(name:page:onComplete:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "74651DFF-5BB7-4179-9CB0-4DBB51B1BDF6 - 79d30ee874bbcd0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static HeroisMarvel.MarvelAPI.loadHeroes(name: Swift.Optional&lt;Swift.String&gt;, page: Swift.Int, onComplete: (Swift.Optional&lt;HeroisMarvel.MarvelInfo&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeroisMarvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/humbertorodrigues/Downloads/HeroisMarvel/HeroisMarvel/MarvelAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1492">
+               </Location>
+               <Location
+                  uuid = "74651DFF-5BB7-4179-9CB0-4DBB51B1BDF6 - 724e652078673ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in static HeroisMarvel.MarvelAPI.loadHeroes(name: Swift.Optional&lt;Swift.String&gt;, page: Swift.Int, onComplete: (Swift.Optional&lt;HeroisMarvel.MarvelInfo&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "HeroisMarvel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/humbertorodrigues/Downloads/HeroisMarvel/HeroisMarvel/MarvelAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8C79FD2-A7F3-4113-84B2-5E512E795FEB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeroisMarvel/MarvelAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "loadHeroes(name:page:onComplete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D36C0FE9-1702-4733-B205-EEE4D0B3C13F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HeroisMarvel/MarvelAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "loadHeroes(name:page:onComplete:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
